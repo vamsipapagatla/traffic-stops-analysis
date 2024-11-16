@@ -64,7 +64,10 @@ This project involves an exploratory data analysis (EDA) of traffic stop data to
 
 ## Sample Visualizations
 ### 1. Distribution of Stop Durations
+![Distribution of Stop Durations](images/stop_duration_distribution.png)
+
 ### 2. Stop Outcomes by Duration
+![Stop Outcomes](images/stop_outcomes.png)
 
 ## Insights & Key Findings
 - **Stop Duration**: Most stops lasted `0-15 minutes`, but a significant number had an "Unknown" duration, highlighting potential data quality issues.
