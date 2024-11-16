@@ -1,10 +1,3 @@
-GitHub Markdown has a specific set of syntax rules, and it doesn’t support all HTML-like formatting. Here’s how to structure the README content with **GitHub-compatible Markdown**.
-
----
-
-### **Updated README for GitHub (Markdown Syntax)**
-
-```markdown
 # Traffic Stops Analysis
 
 ## Project Overview
@@ -82,20 +75,3 @@ This project involves an exploratory data analysis (EDA) of traffic stop data to
 ## Future Scope
 - Incorporate predictive modeling to analyze factors influencing stop outcomes.
 - Perform geospatial analysis to explore regional trends in traffic stops.
-```
-
----
-
-### **Key Markdown Syntax Used**
-1. **Headers**: `#`, `##`, and `###` for different levels of headings.
-2. **Bold Text**: `**Bold Text**` for highlighting skills, insights, and findings.
-3. **Code Blocks**: Use triple backticks (```) for code snippets, and inline code with single backticks (`` `code` ``).
-4. **Lists**: Bullet points (`-`) and numbered lists (`1.`, `2.`) for organized information.
-
----
-
-### **Notes for GitHub**
-- **Images**: Ensure that the images (e.g., `stop_duration_distribution.png`) are uploaded to an `images` folder within your repository.
-- **Links**: Replace placeholders like `https://github.com/yourusername/traffic-stops-analysis.git` with the actual URL of your GitHub repository.
-
-This README should now display correctly on GitHub and look professional. Let me know if there’s anything else you’d like to add or modify! 😊
